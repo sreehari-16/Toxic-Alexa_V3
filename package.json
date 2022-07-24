@@ -1,5 +1,5 @@
 {
- "name": "Toxic-Alexa_V3",
+ "name": "RAAVAN-SER",
  "description": "Multi Device Whatsapp Bot By Turbo",
  "version": "3.0.0",
  "main": "index.js",
@@ -18,7 +18,7 @@
   "bot-md",
   "multi-device"
  ],
- "author": "TURBOHYPER ",
+ "author": "💋അസൂയക്കാരി💋",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "^4.0.1",
@@ -87,7 +87,7 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/TURBOHYPER/Toxic-Alexa_V3.git"
+  "url": "git+https://github.com/sreehari-16/Toxic-Alexa_V3.git"
  },
  "bugs": {
   "url": "https://github.com/TURBOHYPER/Toxic-Alexa_V3/issues"
